@@ -1,0 +1,8 @@
+Camera check
+
+sudo apt install -y v4l-utils
+
+v4l2-ctl --list-devices
+
+Check camera index:
+ffplay /dev/video0

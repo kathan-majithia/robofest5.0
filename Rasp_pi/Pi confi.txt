@@ -1,0 +1,8 @@
+Rasp pi 5
+
+dr venv - 3.8.18
+drone venv - 3.10.14
+
+Arcnet pi 4
+drone - 3.9.19
+mavp - 3.13.5

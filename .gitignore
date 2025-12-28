@@ -2,3 +2,5 @@
 /dhyan_model/venv
 
 /dhyan_model/best_model.h5
+/Rasp_pi/gesture.onnx
+/Rasp_pi/gesture_nchw.onnx

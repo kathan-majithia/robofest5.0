@@ -1,0 +1,3 @@
+copy usb
+
+cp -r /media/arcnet/Kamy/* /folder
